@@ -1,6 +1,6 @@
 {
   "name": "@allnulled/vuebundler",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Like simplebundler but using a *.js list file instead of a directory",
   "main": "vuebundler.js",
   "bin": {
@@ -13,7 +13,10 @@
     "bundler",
     "html",
     "css",
-    "js"
+    "js",
+    "vue",
+    "no-webpack",
+    "simple"
   ],
   "author": "allnulled",
   "license": "WTFPL"
