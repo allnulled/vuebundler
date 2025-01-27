@@ -7,7 +7,9 @@
     "vuebundler": "vuebundler.bin.js"
   },
   "scripts": {
-    "test": "npx mocha --bail test/test.js"
+    "build": "echo 'no building for @allnulled/vuebundler'",
+    "test": "npx mocha --bail test/test.js",
+    "versionate": "echo 'no versionate for @allnulled/vuebundler'"
   },
   "keywords": [
     "bundler",
